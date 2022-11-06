@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "mew-wallet-ios-tweetnacl",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/MoonfishApp/mew-wallet-ios-tweetnacl.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "d5178066048628fd647c8f45f63c2e521e27cccc"
+      }
+    }
+  ],
+  "version" : 2
+}
